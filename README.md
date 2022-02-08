@@ -6,7 +6,7 @@
 
 
 ```
-git clone https://github.com/unknown-ph-tools
+git clone https://github.com/unknown-kel/ph-tools
 cd ph-tools
 python tools.py
 ```
