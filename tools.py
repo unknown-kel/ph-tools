@@ -46,7 +46,7 @@ while True:
 	if pass_ent !=passwrds:
 		print(Fore.RED + "[x]Access Denied!")
 		sleep(1)
-		os.system("https://controlc.com/2704441f")
+		os.system("xdg-open https://controlc.com/2704441f")
 	elif pass_ent == passwrds:
 			print("[✓]Access Granted!")
 			sleep(2)
